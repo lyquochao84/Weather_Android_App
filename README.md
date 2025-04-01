@@ -1,5 +1,5 @@
 
-# Android Weather App
+# SkyCast
 Our Android weather app provides users with the current weather conditions of their present location, along with a 5-day weather forecast for that area. Users can also search for weather updates for any city, both within and outside the US, to view the current weather and upcoming 5-day forecast. The app ensures that users stay informed about weather conditions, whether they are planning their week ahead or checking the weather for a travel destination. With its user-friendly interface and comprehensive weather data, the app is a reliable tool for staying updated on weather conditions anywhere.
 
 ## Table of Contents
