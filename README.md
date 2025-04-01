@@ -1,6 +1,6 @@
 
 # SkyCast
-Our Android weather app provides users with the current weather conditions of their present location, along with a 5-day weather forecast for that area. Users can also search for weather updates for any city, both within and outside the US, to view the current weather and upcoming 5-day forecast. The app ensures that users stay informed about weather conditions, whether they are planning their week ahead or checking the weather for a travel destination. With its user-friendly interface and comprehensive weather data, the app is a reliable tool for staying updated on weather conditions anywhere.
+Our Android weather application provides users with the current weather conditions of their present location, along with a 5-day weather forecast for that area. Users can also search for weather updates for any city, both within and outside the US, to view the current weather and upcoming 5-day forecast. The app ensures that users stay informed about weather conditions, whether they are planning their week ahead or checking the weather for a travel destination. With its user-friendly interface and comprehensive weather data, the app is a reliable tool for staying updated on weather conditions anywhere.
 
 ## Table of Contents
 - [Technologies](#technologies)
@@ -36,7 +36,7 @@ Follow these steps to clone the project from GitHub and open it with Android Stu
 1.  Install the Android Studio
 2.  Clone The Repository:
     - Open the terminal in Android Studio 
-    - Enter ```git clone https://github.com/lyquochao84/Weather_Android_App.git```
+    - Enter ```git clone https://github.com/lyquochao84/SkyCast.git```
 3. Run the App:
     - Connect your Android device or Install the Android Virtual Device in Android Studio
     - Choose your device and Click `Run` from the menu
